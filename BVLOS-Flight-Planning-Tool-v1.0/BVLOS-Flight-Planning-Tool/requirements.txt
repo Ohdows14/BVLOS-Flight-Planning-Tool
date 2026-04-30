@@ -1,0 +1,11 @@
+streamlit==1.32.0
+folium==0.15.1
+streamlit-folium==0.18.0
+geopandas==0.14.3
+pandas==2.2.1
+shapely==2.0.3
+fiona==1.9.5
+pyproj==3.6.1
+matplotlib==3.8.3
+numpy==1.26.4
+anthropic==0.18.1
